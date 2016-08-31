@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Doomed.xcodeproj">
+      location = "self:/Users/josephkleinschmidt/Desktop/swift/Doomed/Incoming.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "92ED82211D6D218E004635CE"
-               BuildableName = "Doomed.app"
-               BlueprintName = "Doomed"
-               ReferencedContainer = "container:Doomed.xcodeproj">
+               BuildableName = "Incoming.app"
+               BlueprintName = "Incoming"
+               ReferencedContainer = "container:Incoming.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "92ED82211D6D218E004635CE"
-            BuildableName = "Doomed.app"
-            BlueprintName = "Doomed"
-            ReferencedContainer = "container:Doomed.xcodeproj">
+            BuildableName = "Incoming.app"
+            BlueprintName = "Incoming"
+            ReferencedContainer = "container:Incoming.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "92ED82211D6D218E004635CE"
-            BuildableName = "Doomed.app"
-            BlueprintName = "Doomed"
-            ReferencedContainer = "container:Doomed.xcodeproj">
+            BuildableName = "Incoming.app"
+            BlueprintName = "Incoming"
+            ReferencedContainer = "container:Incoming.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "92ED82211D6D218E004635CE"
-            BuildableName = "Doomed.app"
-            BlueprintName = "Doomed"
-            ReferencedContainer = "container:Doomed.xcodeproj">
+            BuildableName = "Incoming.app"
+            BlueprintName = "Incoming"
+            ReferencedContainer = "container:Incoming.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
